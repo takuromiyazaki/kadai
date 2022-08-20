@@ -20,7 +20,8 @@ main {
   background-color: #eee;
 }
 .step-box:last-child {
-  margin-right: 0;
+  margin-right: auto;
+  margin-left: auto;
 }
 .step-img1 {
   width: 280px;
@@ -63,6 +64,8 @@ footer {
   .step-box {
     width: 90%;
     margin: 20px;
+    margin-right: auto;
+    margin-left: auto;
   }
   .step-img1 {
     width: 100%;
